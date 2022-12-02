@@ -20,6 +20,7 @@
 		4AE67D43293A0A16005C685D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE67D42293A0A16005C685D /* Extensions.swift */; };
 		4AE67D46293A0DC4005C685D /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE67D45293A0DC4005C685D /* LoginController.swift */; };
 		4AE67D48293A0E8E005C685D /* RegistrationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE67D47293A0E8E005C685D /* RegistrationController.swift */; };
+		4AE67D4A293A21B6005C685D /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE67D49293A21B6005C685D /* Utilities.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		4AE67D42293A0A16005C685D /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = ../../../../../../Downloads/Extensions.swift; sourceTree = "<group>"; };
 		4AE67D45293A0DC4005C685D /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
 		4AE67D47293A0E8E005C685D /* RegistrationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationController.swift; sourceTree = "<group>"; };
+		4AE67D49293A21B6005C685D /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				4AE67D42293A0A16005C685D /* Extensions.swift */,
+				4AE67D49293A21B6005C685D /* Utilities.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			files = (
 				4AE67D3D2939FB4D005C685D /* NotificationsController.swift in Sources */,
 				4AE67D43293A0A16005C685D /* Extensions.swift in Sources */,
+				4AE67D4A293A21B6005C685D /* Utilities.swift in Sources */,
 				4AE67D3F2939FB67005C685D /* ConversationsController.swift in Sources */,
 				4AE67D46293A0DC4005C685D /* LoginController.swift in Sources */,
 				4AE67D3B2939FAED005C685D /* ExploreController.swift in Sources */,
